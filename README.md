@@ -4,7 +4,7 @@
 
 ## Back-End
 
-### Odpalenie Contraktu localhost
+### Odpalenie Kontraktu localhost
 
 yarn hardhat node
 
